@@ -1,6 +1,6 @@
 # Components
 
-[025961 - OAK D Pro](https://github.com/luxonis/depthai-hardware/tree/master/DM9098_OAK-D-Pro)
+[025961 - OAK-D-Pro, Luxonis](https://github.com/luxonis/depthai-hardware/tree/master/DM9098_OAK-D-Pro)
 
 # Fastener List
 
