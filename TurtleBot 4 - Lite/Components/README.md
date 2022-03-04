@@ -1,3 +1,19 @@
+# Components
+
+[025962 - LIDAR, RPLidar A1M8, Slamtec](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/025962%20-%20LIDAR%2C%20RPLidar%20A1M8%2C%20Slamtec)
+
+[025426 - BRACKET, CAMERA, ALUMINIUM ALLOY](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/025426%20-%20BRACKET%2C%20CAMERA%2C%20ALUMINIUM%20ALLOY)
+
+[025552 - STANDOFF, THREADED, HEX—MALE-FEMALE, M2_5 X 5, HEX SIZE 4_5MM, ALUMINUM](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/025552%20-%20STANDOFF%2C%20THREADED%2C%20HEX%E2%80%94MALE-FEMALE%2C%20M2_5%20X%205%2C%20HEX%20SIZE%204_5MM%2C%20ALUMINUM)
+
+## USB Cables
+
+[025941 - Cable, USB 3.0 USB-C 90° Male to USB-A Male, 300mm](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/USB%20Cables/025941%20-%20Cable%2C%20USB%203.0%20USB-C%2090%C2%B0%20Male%20to%20USB-A%20Male%2C%20300mm)
+
+[025942 - Cable, USB 3.0 USB-C Male to USB-C 90° Male, 300mm](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/USB%20Cables/025942%20-%20Cable%2C%20USB%203.0%20USB-C%20Male%20to%20USB-C%2090%C2%B0%20Male%2C%20300mm)
+
+[025944 - Cable, USB 2.0 Micro-B Male to USB-A Male, 300mm](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/USB%20Cables/025944%20-%20Cable%2C%20USB%202.0%20Micro-B%20Male%20to%20USB-A%20Male%2C%20300mm)
+
 # Fastener List
 
 | CPR Part Number | Description                                                                  | Quantity | Mcmaster Carr Equivalent |
