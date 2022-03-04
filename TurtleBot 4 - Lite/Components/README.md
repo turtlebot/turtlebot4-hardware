@@ -1,5 +1,7 @@
 # Components
 
+[025963 - OAK D Lite](https://github.com/luxonis/depthai-hardware/tree/master/DM9095_OAK-D-LITE_DepthAI_USB3C)
+
 [025962 - LIDAR, RPLidar A1M8, Slamtec](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/025962%20-%20LIDAR%2C%20RPLidar%20A1M8%2C%20Slamtec)
 
 [025426 - BRACKET, CAMERA, ALUMINIUM ALLOY](https://github.com/turtlebot/turtlebot4-hardware/tree/master/TurtleBot%204/Components/025426%20-%20BRACKET%2C%20CAMERA%2C%20ALUMINIUM%20ALLOY)

@@ -1,3 +1,7 @@
+# Components
+
+[025961 - OAK D Pro](https://github.com/luxonis/depthai-hardware/tree/master/DM9098_OAK-D-Pro)
+
 # Fastener List
 
 | CPR Part Number | Description                                                                  | Quantity | Mcmaster Carr Equivalent |
