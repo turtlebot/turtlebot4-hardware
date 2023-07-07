@@ -14,4 +14,4 @@ Use of this adapter plate requires some additional hardware components. Suggeste
 | Washer, Flat—Ø3.2 X Ø7 X 0.6, Stainless Steel Type 18-8                      | 4        | 93475A210                |
 
 
-![installed_adapter_plate](06 - TTB4 Lite Adapter.jpg)
+![installed_adapter_plate](06-TTB4_Lite_Adapter.jpg)
